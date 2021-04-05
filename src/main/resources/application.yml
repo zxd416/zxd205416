@@ -1,0 +1,11 @@
+
+spring:
+  profiles:
+    active: dev
+
+
+jdbc:
+  url: http://localhost:3306
+
+server:
+  port: 8888
